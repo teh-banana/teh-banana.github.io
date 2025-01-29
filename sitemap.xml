@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://teh-banana.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://teh-banana.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://teh-banana.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://teh-banana.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://teh-banana.github.io/posts/first-post/</loc>
+        <lastmod>2024-12-30</lastmod>
+    </url>
+    <url>
+        <loc>https://teh-banana.github.io/posts/second-post/</loc>
+        <lastmod>2024-12-24</lastmod>
+    </url>
+    <url>
+        <loc>https://teh-banana.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://teh-banana.github.io/tags/gtnh/</loc>
+    </url>
+    <url>
+        <loc>https://teh-banana.github.io/tags/minecraft/</loc>
+    </url>
+</urlset>

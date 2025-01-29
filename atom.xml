@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Banana Blog</title>
+    <subtitle>description</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://teh-banana.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://teh-banana.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-30T00:00:00+00:00</updated>
+    <id>https://teh-banana.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Second Day Of The Grind</title>
+        <published>2024-12-24T00:00:00+00:00</published>
+        <updated>2024-12-24T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://teh-banana.github.io/posts/second-post/"/>
+        <id>https://teh-banana.github.io/posts/second-post/</id>
+        
+        <content type="html" xml:base="https://teh-banana.github.io/posts/second-post/">&lt;p&gt;Thanks to the quest book being janky, and not counting stuff you have done previously, I had to go exploring to kill some cows to progress towards the pizza gloves.&lt;&#x2F;p&gt;
+&lt;p&gt;While I was out exploring, I had the ovens cooking some coke oven bricks. When I got back they were done and I was able to make the first multiblock!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;posts&#x2F;gtnh&#x2F;gtnh_2024-12-24_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This inital base is going to be VERY jank, as there is not really any flat areas and I do not feel like making any. I don&#x27;t plan on being here for too much longer as I dont want to have to spend too long moving. I just need to find somewhere else to live that has reasonable humidity.&lt;&#x2F;p&gt;
+&lt;p&gt;Putting the coke oven on to make some charcoal left me with a bit of time, so I decided to go out exploring to find some stuff. Nothing in particular in mind that I wanted to find, but lots of stuff needed still for progressing. Quite happy with what I got, and need to still look at the map to see if there is somewhere nice to setup a base.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;posts&#x2F;gtnh&#x2F;gtnh_2024-12-24_02.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>And So We Start Again...</title>
+        <published>2024-12-23T00:00:00+00:00</published>
+        <updated>2024-12-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://teh-banana.github.io/posts/first-post/"/>
+        <id>https://teh-banana.github.io/posts/first-post/</id>
+        
+        <content type="html" xml:base="https://teh-banana.github.io/posts/first-post/">&lt;p&gt;After messing around with shader settings and stuff to get the settings just right for my liking, I created the world.&lt;&#x2F;p&gt;
+&lt;p&gt;Note: This run I won&#x27;t be taking quest rewards (outside of the personal dimension, as that cannot be made any other way). Also I am trying to not hyperfocus &#x2F; nolife, as I want to keep playing this for a long time, and I can easily burn out in a month or so.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;World Name:&lt;&#x2F;strong&gt; GTNH-MaybeThisTime&lt;br&gt;
+&lt;strong&gt;Seed:&lt;&#x2F;strong&gt; notdeeznuts&lt;&#x2F;p&gt;
+&lt;p&gt;I found a lake about 100 blocks away from the spawn. Making a small hole in the side of the terrain for the first few nights.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;posts&#x2F;gtnh&#x2F;gtnh_2024-12-23_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I went searching a bit in the surrounding area for some foods or maybe a better place to live. The supply of food is quite limited but I have started planting already, and killing off animals for meat too.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;posts&#x2F;gtnh&#x2F;gtnh_2024-12-23_02.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;After gathering the gravel and sand required for the questbook from nearby, I made a bed which is super useful for survival. It felt like this was a much harder task previously in GTNH, but I think I was just nieve.&lt;&#x2F;p&gt;
+&lt;p&gt;I decided to try and find a river for the clay as it spawns on the sides and will not leave funky water holes (thanks GTNH for non-infinite water). Gathering foods and other random things I found along the way, eventually deciding to call it quits on finding a river and just getting the required clay from random water lakes. I also got some hardened clay from a mountain as it is far easier to grind into dust than clay balls.&lt;&#x2F;p&gt;
+&lt;p&gt;On my way home, I found a structure that will be quite useful for avoiding some future Thaumcraft... but more on that later.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;posts&#x2F;gtnh&#x2F;gtnh_2024-12-23_03.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;After this, I did a little bit more quest book progression, some farming of logs, and decided to call it quits on the first day. Not as much progress as I would have hoped, but it is a long journey ahead.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
