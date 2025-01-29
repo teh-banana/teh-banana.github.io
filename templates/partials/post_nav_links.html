@@ -1,0 +1,16 @@
+{% set posts_section = get_section(path=section.path ~ "_index.md" | trim_start_matches(pat="/")) %}
+{% set posts_amount = posts_section.pages | length %}
+{% if posts_amount > 1 %}
+<nav class="post-navigation">
+    {% if page.higher %}
+    <a class="post-navigation-previous" href="{{ page.higher.path }}">
+        <span>Previous</span><br>{{ page.higher.title }}
+    </a>
+    {% endif %}
+    {% if page.lower %}
+    <a class="post-navigation-next" href="{{ page.lower.path }}">
+        <span>Next</span><br>{{ page.lower.title }}
+    </a>
+    {% endif %}
+</nav>
+{% endif %}

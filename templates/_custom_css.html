@@ -1,0 +1,115 @@
+<style>
+
+  /* light mode colors */
+  body {
+    --primary-color: #5871a2;
+    --primary-pale-color: #5871a210;
+    --text-color: #3C4043;
+    --text-pale-color: #a3a5a9;
+    --bg-color: #ffffff;
+    --highlight-mark-color: #5f75b035;
+    --blockquote-color: #8e8d91;
+
+    --callout-note-color: #5871a2;
+    --callout-important-color: #8062b0;
+    --callout-warning-color: #936e51;
+    --callout-alert-color: #bc5252;
+    --callout-question-color: #477389;
+    --callout-tip-color: #3c8460;
+  }
+
+  /* dark mode colors */
+  body.dark {
+    --primary-color: #a89735; /* ac975d */
+    --primary-pale-color: #aca05d20;
+    --text-color: #9197a5;
+    --text-pale-color: #656a74;
+    --bg-color: #18191b;
+    --highlight-mark-color: #5f75b035;
+    --blockquote-color: #747983;
+
+    --callout-note-color: #5d77ac;
+    --callout-important-color: #8062b0;
+    --callout-warning-color: #936e51;
+    --callout-alert-color: #bc5252;
+    --callout-question-color: #477389;
+    --callout-tip-color: #3c8460;
+  }
+
+  /* typography */
+  body {
+    --main-font: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --homepage-max-width: 768px;
+    --main-max-width: 768px;
+    --avatar-size: 56px;
+    --homepage-font-size: 16px;
+    --homepage-line-height: 1.75;
+    --paragraph-font-size: 16px;
+    --paragraph-line-height: 1.75;
+    --aside-font-size: 15px;
+    --img-border-radius: 0px;
+    --detail-border-radius: 0px;
+    --dark-mode-img-brightness: 0.75;
+    --dark-mode-chart-brightness: 0.75;
+    --inline-code-border-radius: 2px;
+    --inline-code-bg-color: var(--primary-pale-color);
+    --block-code-border-radius: 0px;
+    --block-code-border-color: var(--primary-color);
+    --detail-border-color: var(--primary-color);
+
+    --nav-border-radius: 9px;
+  }
+
+  /* get rid of stupid brightness lowering of images */
+  body .prose img {
+    filter: none !important;
+  }
+
+  #back-to-top:hover {
+    background-color: var(--highlight-mark-color) !important;
+    border-radius: var(--nav-border-radius);
+  }
+
+  /* post summary */
+  .post-summary {
+    color: var(--text-pale-color);
+    font-style: italic;
+    text-align: center;
+  }
+
+  /* post naviation */
+  .post-navigation {
+    width: 100%;
+    display: flex;
+  }
+
+  .post-navigation a {
+    color: var(--primary-color);
+    display: block;
+    line-height: 1.5rem;
+    padding: 1rem;
+    text-decoration: none;
+    width: 50%;
+  }
+
+  .post-navigation a:hover {
+    background-color: var(--highlight-mark-color);
+    text-decoration: underline;
+  }
+
+  .post-navigation a span {
+    font-variant: small-caps;
+  }
+
+  .post-navigation .post-navigation-previous {
+    border-radius: var(--nav-border-radius) 0 0 var(--nav-border-radius);
+  }
+
+  .post-navigation .post-navigation-next {
+    border-radius: 0 var(--nav-border-radius) var(--nav-border-radius) 0;
+    margin-inline-start: auto;
+    text-align: right;
+  }
+
+</style>
